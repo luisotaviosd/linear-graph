@@ -9,7 +9,7 @@ linearGraph.config({
     right: 60
   },
   acceptableRangeColor: "#22FF99",
-  unacceptableRangeColor: "#FF9999",
+  unacceptableRangeColor: "#000000",
   valueColor: "#FFFFFF",
   targetColor: "#000000",
   target: 30,
